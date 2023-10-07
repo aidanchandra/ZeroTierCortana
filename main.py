@@ -4,7 +4,7 @@ import pyperclip
 import keyring
 import http.client
 import json
-import hashlib
+# import hashlib
 
 class ZeroTierApp(rumps.App):
     def __init__(self):
